@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8096744132162249829
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8096744132162249827}
+  - component: {fileID: 8096744132162249828}
+  - component: {fileID: 8096744132162249826}
+  - component: {fileID: 8096744132162249825}
+  - component: {fileID: 8096744132162249824}
+  - component: {fileID: 8096744132162249839}
+  - component: {fileID: 8096744132162249838}
+  m_Layer: 0
+  m_Name: EventKamarad
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8096744132162249827
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096744132162249829}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.8, y: -4.4676123, z: 18.660938}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8096744132162249828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096744132162249829}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a609af4b60e9bc748a3d0ae60527cbf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8096744132162249826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096744132162249829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 138e7492c0266ad478ad3309c116db4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  karta: {fileID: 0}
+  front: {fileID: 0}
+  zbroj: {fileID: 0}
+  strany: {fileID: 0}
+  zadaSprite: {fileID: 0}
+  jmeno: {fileID: 0}
+  informace: {fileID: 0}
+  tlacitkoTrigger: {fileID: 0}
+  spriteId: 16
+  spriteArray:
+  - {fileID: -4635210999669542063, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 1362969985640973742, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 4358867350444442379, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 8315096214943717156, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 7635899478426211863, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: -4086179297788500957, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 507958406034571641, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: -2807217064232651145, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 6031032091264008658, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: -5338563547799311541, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: -59344909880183695, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: -7908697925746264156, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: -1949589941590793238, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 4554848476117239777, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: 1072952455834782876, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  - {fileID: -1833424736929421574, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  sprite: {fileID: -4635210999669542063, guid: e5b547c4868dc3b4396b72541c590dc7, type: 3}
+  kartaBehave: {fileID: 0}
+  i: 0
+  MomentObrazek: 0
+  id: 0
+  Hover: 0
+  Hratelna: 1
+  zivoty: 0
+  utok: 0
+  vykriti: 0
+  obrana: 0
+  obranaPosk: 0
+  level: 0
+  levelPerc: 0
+--- !u!114 &8096744132162249825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096744132162249829}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b2e3b5ac7eef846883bd354c6ee0b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HracJedna: {fileID: 0}
+  HracDva: {fileID: 0}
+  figureJedna: {fileID: 0}
+  figureDva: {fileID: 0}
+--- !u!114 &8096744132162249824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096744132162249829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447862196eeda194c91e0a289ecfda29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  KartaPref: {fileID: 8038791411151758324, guid: af38360055bc9cd4facf45a5d5c26567, type: 3}
+  numberOfCards: 5
+  VKartaArray: []
+  indexToEdit: 0
+  y: 0
+--- !u!114 &8096744132162249839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096744132162249829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d5edb6fe04dc654e9bb299d13afda93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataJmenaKaret: []
+--- !u!114 &8096744132162249838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096744132162249829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a2aab1050e21d40a19df5cb7707623, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

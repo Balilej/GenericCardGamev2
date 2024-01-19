@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: a30d1ffddc5f9b34d8be9d7f21ac0c60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1401350411657592653
+    second: ishallahTRY_0
+  - first:
+      213: 3218756697754553917
+    second: ishallahTRY_1
+  - first:
+      213: 1012314602673305014
+    second: ishallahTRY_2
+  - first:
+      213: -4321272348995447572
+    second: ishallahTRY_3
+  - first:
+      213: 946248457848624504
+    second: ishallahTRY_4
+  - first:
+      213: 698644144381372193
+    second: ishallahTRY_5
+  - first:
+      213: 5173526626803646961
+    second: ishallahTRY_6
+  - first:
+      213: 252848744521088960
+    second: ishallahTRY_7
+  - first:
+      213: 5148797946208018405
+    second: ishallahTRY_8
+  - first:
+      213: 1503345109626743225
+    second: ishallahTRY_9
+  - first:
+      213: 1110929585867450428
+    second: ishallahTRY_10
+  - first:
+      213: -7532683230909502186
+    second: ishallahTRY_11
+  - first:
+      213: 8891430818825607881
+    second: ishallahTRY_12
+  - first:
+      213: 6220320312117002180
+    second: ishallahTRY_13
+  - first:
+      213: -2435281810200072243
+    second: ishallahTRY_14
+  - first:
+      213: -1674816024180984041
+    second: ishallahTRY_15
+  - first:
+      213: 113706183440083739
+    second: ishallahTRY_16
+  - first:
+      213: -8551189101170367056
+    second: ishallahTRY_17
+  - first:
+      213: 2002813325647141141
+    second: ishallahTRY_18
+  - first:
+      213: 2936670322413664993
+    second: ishallahTRY_19
+  - first:
+      213: -3812697499913182553
+    second: ishallahTRY_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ishallahTRY_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fb2b456c8927310800000000000000
+      internalID: 1401350411657592653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_1
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec114b9225bac20800000000000000
+      internalID: 3218756697754553917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_2
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5784584c67c0e00800000000000000
+      internalID: 1012314602673305014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_3
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4986491b1c704c0800000000000000
+      internalID: -4321272348995447572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_4
+      rect:
+        serializedVersion: 2
+        x: 16000
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875145f75ffb12d00800000000000000
+      internalID: 946248457848624504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_5
+      rect:
+        serializedVersion: 2
+        x: 20000
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1272242d52512b900800000000000000
+      internalID: 698644144381372193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_6
+      rect:
+        serializedVersion: 2
+        x: 24000
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f108aa7e0f0cc740800000000000000
+      internalID: 5173526626803646961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_7
+      rect:
+        serializedVersion: 2
+        x: 28000
+        y: 8000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf351fe79c428300800000000000000
+      internalID: 252848744521088960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5dfbd374347740800000000000000
+      internalID: 5148797946208018405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_9
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b96f128964fcd410800000000000000
+      internalID: 1503345109626743225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_10
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38e9188290da6f00800000000000000
+      internalID: 1110929585867450428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_11
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61de818e288867790800000000000000
+      internalID: -7532683230909502186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_12
+      rect:
+        serializedVersion: 2
+        x: 16000
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca9f0d8835b46b70800000000000000
+      internalID: 8891430818825607881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_13
+      rect:
+        serializedVersion: 2
+        x: 20000
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf71e00e54035650800000000000000
+      internalID: 6220320312117002180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_14
+      rect:
+        serializedVersion: 2
+        x: 24000
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfed07a814243ed0800000000000000
+      internalID: -2435281810200072243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_15
+      rect:
+        serializedVersion: 2
+        x: 28000
+        y: 4000
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177f8613bbd1c8e0800000000000000
+      internalID: -1674816024180984041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b26b0eb27f39100800000000000000
+      internalID: 113706183440083739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b56c8191d2145980800000000000000
+      internalID: -8551189101170367056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_18
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519dd9abb1c6bcb10800000000000000
+      internalID: 2002813325647141141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_19
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 0
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf5ed591621c820800000000000000
+      internalID: 2936670322413664993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ishallahTRY_20
+      rect:
+        serializedVersion: 2
+        x: 16000
+        y: 0
+        width: 4000
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a7a903d3961bc0800000000000000
+      internalID: -3812697499913182553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ishallahTRY_0: 1401350411657592653
+      ishallahTRY_1: 3218756697754553917
+      ishallahTRY_10: 1110929585867450428
+      ishallahTRY_11: -7532683230909502186
+      ishallahTRY_12: 8891430818825607881
+      ishallahTRY_13: 6220320312117002180
+      ishallahTRY_14: -2435281810200072243
+      ishallahTRY_15: -1674816024180984041
+      ishallahTRY_16: 113706183440083739
+      ishallahTRY_17: -8551189101170367056
+      ishallahTRY_18: 2002813325647141141
+      ishallahTRY_19: 2936670322413664993
+      ishallahTRY_2: 1012314602673305014
+      ishallahTRY_20: -3812697499913182553
+      ishallahTRY_3: -4321272348995447572
+      ishallahTRY_4: 946248457848624504
+      ishallahTRY_5: 698644144381372193
+      ishallahTRY_6: 5173526626803646961
+      ishallahTRY_7: 252848744521088960
+      ishallahTRY_8: 5148797946208018405
+      ishallahTRY_9: 1503345109626743225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
